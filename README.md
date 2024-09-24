@@ -5,10 +5,10 @@ With a background in graphic design and a knack for storytelling, I bring a uniq
 
 Here's a glimpse into my skill set:
 
-- 💻 **Frontend Development:** HTML, CSS, TypeScript (ES6+), React.js, Vue.js
+- 💻 **Frontend Development:** HTML, SCSS, TypeScript (ES6+), React.js, Vue.js
 - 📊 **UI/UX Design:** Adobe XD, Figma
 - 📈 **Backend:** Node
-- 🖥️ **C Programming Basics:** Data Structures, Algorithms
+- 🖥️ **C Programming Basics:** 
 - 🌐 **Other Technologies:** Git, GitHub, VS Code, Emacs
 
 🚀 Currently, I'm diving deeper into frontend frameworks like React.js and enhancing my SQL skills to build even more powerful and dynamic web applications.
