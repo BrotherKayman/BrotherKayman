@@ -7,7 +7,7 @@ Here's a glimpse into my skill set:
 
 - 💻 **Frontend Development:** HTML, CSS, TypeScript (ES6+), React.js, Vue.js
 - 📊 **UI/UX Design:** Adobe XD, Figma
-- 📈 **SQL:** MySQL, PostgreSQL
+- 📈 **Backend:** Node
 - 🖥️ **C Programming Basics:** Data Structures, Algorithms
 - 🌐 **Other Technologies:** Git, GitHub, VS Code, Emacs
 
