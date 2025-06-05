@@ -1,17 +1,16 @@
-### Hi there! 👋 I'm Kagiso Motlhaoleng, aka BrotherKayman 🌟
+### Hi there! 👋 I'm Kagiso {BrotherKayman} Motlhaoleng 🌟
 
-I'm a passionate frontend developer from South Africa 🇿🇦, specializing in creating beautiful and user-friendly web interfaces. 
-With a background in graphic design and a knack for storytelling, I bring a unique perspective to my frontend development projects.
+I'm a passionate frontend developer from South Africa 🇿🇦
 
 Here's a glimpse into my skill set:
 
-- 💻 **Frontend Development:** HTML, SCSS, TypeScript (ES6+), React.js, Vue.js
+- 💻 **Frontend Development:** HTML, SCSS, TypeScript (ES6+), React.js, Next.js
 - 📊 **UI/UX Design:** Adobe XD, Figma
-- 📈 **Backend:** Node
+- 📈 **Backend Fundamentals (Not my current domain):** Node, Python, C
 - 🖥️ **C Programming Basics:** 
 - 🌐 **Other Technologies:** Git, GitHub, VS Code, Emacs
 
-🚀 Currently, I'm diving deeper into frontend frameworks like React.js and enhancing my SQL skills to build even more powerful and dynamic web applications.
+🚀 Although I'm a frontend developer, I'm invested in learning and building full stack web apps and desktop apps.
 
 💬 Let's chat about frontend development, UI/UX design, SQL queries, or anything tech-related! 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/kagisocreative).
